@@ -4,6 +4,7 @@ My original intention of completing this program was to see how complicated the 
 # This is a simple project about course selection, designed to assist students in selecting courses for the fall semester. It allows users to input their preferences for courses and instructors, and then displays a list of selected courses based on those preferences.
 
 # Guidence for using this progtam:
+
 To run the program, execute course_selection.py. Ensure that this file is in the same directory as user_input.py.
 As for inputting Preferences, when the program runs, it will guide you through the following steps:
 1. Selecting the Semester: You will be asked to enter the semester. Currently, only the fall semester is available.
