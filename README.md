@@ -11,4 +11,4 @@ As for inputting Preferences, when the program runs, it will guide you through t
 2. Selecting Courses: Enter the names of courses you are interested in, separated by commas. If a course is not found, you will be notified. You can press enter without typing anything to exit this step.
 3. Selecting Instructors: Optionally, enter the names of preferred instructors, separated by commas.
 
-# This program is rough and crude.
+# This program is rough and crude. As I tried to add more features to this program, I found it was beyond my reach. So this probably would be the ultimate version.
